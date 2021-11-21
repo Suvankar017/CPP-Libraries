@@ -1,0 +1,6 @@
+/Math Library/bin
+/Math Library/.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
